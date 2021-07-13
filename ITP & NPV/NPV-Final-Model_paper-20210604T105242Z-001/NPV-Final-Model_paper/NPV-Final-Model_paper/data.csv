@@ -1,0 +1,470 @@
+,order_id,quantity,item_name,choice_description,item_price
+0,1,1,Chips and Fresh Tomato Salsa,,2.39 
+1,1,1,Izze,[Clementine],3.39 
+2,1,1,Nantucket Nectar,[Apple],3.39 
+3,1,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+4,2,2,Chicken Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream]]",16.98 
+5,3,1,Chicken Bowl,"[Fresh Tomato Salsa (Mild), [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+6,3,1,Side of Chips,,1.69 
+7,4,1,Steak Burrito,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+8,4,1,Steak Soft Tacos,"[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]",9.25 
+9,5,1,Steak Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]",9.25 
+10,5,1,Chips and Guacamole,,4.45 
+11,6,1,Chicken Crispy Tacos,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+12,6,1,Chicken Soft Tacos,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+13,7,1,Chicken Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole]]",11.25 
+14,7,1,Chips and Guacamole,,4.45 
+15,8,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+16,8,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Cheese, Sour Cream]]",8.49 
+17,9,1,Chicken Burrito,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+18,9,2,Canned Soda,[Sprite],2.18 
+19,10,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce]]",8.75 
+20,10,1,Chips and Guacamole,,4.45 
+21,11,1,Barbacoa Burrito,"[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+22,11,1,Nantucket Nectar,[Pomegranate Cherry],3.39 
+23,12,1,Chicken Burrito,"[[Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Pinto Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+24,12,1,Izze,[Grapefruit],3.39 
+25,13,1,Chips and Fresh Tomato Salsa,,2.39 
+26,13,1,Chicken Bowl,"[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+27,14,1,Carnitas Burrito,"[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Sour Cream, Lettuce]]",8.99 
+28,14,1,Canned Soda,[Dr. Pepper],1.09 
+29,15,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+30,15,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+31,16,1,Steak Burrito,"[[Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Sour Cream]]",8.99 
+32,16,1,Side of Chips,,1.69 
+33,17,1,Carnitas Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.99 
+34,17,1,Bottled Water,,1.09 
+35,18,1,Chicken Soft Tacos,"[Roasted Chili Corn Salsa, Rice]",8.75 
+36,18,1,Chicken Soft Tacos,"[Roasted Chili Corn Salsa, [Cheese, Lettuce]]",8.75 
+37,18,1,Chips and Guacamole,,4.45 
+38,18,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+39,19,1,Barbacoa Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+40,19,1,Chips,,2.15 
+41,20,1,Chips and Guacamole,,4.45 
+42,20,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+43,20,1,Steak Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+44,20,1,Chicken Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Pinto Beans, Lettuce]]",8.75 
+45,21,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+46,21,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Fajita Veggies, Cheese]]",8.99 
+47,21,1,Izze,[Blackberry],3.39 
+48,22,1,Steak Burrito,"[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Sour Cream]]",8.99 
+49,22,1,Chips and Guacamole,,3.99 
+50,23,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.99 
+51,23,2,Canned Soda,[Mountain Dew],2.18 
+52,24,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+53,24,1,Canned Soda,[Sprite],1.09 
+54,25,1,Steak Bowl,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]",8.99 
+55,25,1,Chips and Fresh Tomato Salsa,,2.39 
+56,26,1,Barbacoa Soft Tacos,"[Fresh Tomato Salsa, [Fajita Vegetables, Black Beans, Lettuce]]",9.25 
+57,26,1,Veggie Burrito,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+58,27,1,Barbacoa Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+59,27,1,Chips,,2.15 
+60,28,1,Chips and Guacamole,,4.45 
+61,28,1,Steak Soft Tacos,"[Fresh Tomato Salsa, Cheese]",9.25 
+62,28,1,Veggie Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+63,28,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]",8.75 
+64,29,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.99 
+65,29,1,Steak Soft Tacos,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+66,30,1,Izze,[Blackberry],3.39 
+67,30,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese]]",8.99 
+68,30,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+69,31,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+70,31,1,Side of Chips,,1.69 
+71,32,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+72,32,1,Chips and Guacamole,,3.99 
+73,33,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+74,33,1,Chips and Guacamole,,4.45 
+75,34,1,Chicken Soft Tacos,"[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+76,34,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Lettuce]]",8.75 
+77,34,1,Chips,,2.15 
+78,34,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+79,35,1,Chicken Soft Tacos,"[Roasted Chili Corn Salsa, [Rice, Cheese, Lettuce, Guacamole]]",11.25 
+80,35,1,Chips,,2.15 
+81,36,1,Barbacoa Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]",9.25 
+82,36,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+83,37,1,Chicken Burrito,"[Tomatillo Green Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese]]",8.75 
+84,37,1,Steak Soft Tacos,[Tomatillo Red Chili Salsa],9.25 
+85,38,1,Veggie Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Black Beans, Rice, Fajita Veggies, Lettuce]]",8.49 
+86,38,1,Steak Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Fajita Veggies, Cheese, Lettuce]]",8.99 
+87,38,1,Bottled Water,,1.09 
+88,39,1,Carnitas Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Sour Cream, Cheese]]",9.25 
+89,39,1,Chips and Fresh Tomato Salsa,,2.95 
+90,40,1,Steak Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]",11.75 
+91,40,1,Steak Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Cheese, Sour Cream, Guacamole]]",11.75 
+92,40,1,Steak Crispy Tacos,"[Fresh Tomato Salsa, Sour Cream]",9.25 
+93,41,1,Carnitas Burrito,"[Roasted Chili Corn Salsa, [Sour Cream, Guacamole]]",11.75 
+94,41,1,Chips and Guacamole,,4.45 
+95,42,1,Barbacoa Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream]]",9.25 
+96,42,1,Chips and Guacamole,,4.45 
+97,43,1,Carnitas Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.75 
+98,43,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]",8.75 
+99,44,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Rice, Fajita Vegetables, Sour Cream, Lettuce]]",8.75 
+100,44,1,Chips and Guacamole,,4.45 
+101,45,1,Steak Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+102,45,1,Steak Bowl,"[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+103,45,1,Chips and Guacamole,,3.99 
+104,46,1,Veggie Burrito,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Sour Cream, Lettuce]]",8.49 
+105,46,1,Nantucket Nectar,[Pineapple Orange Banana],3.39 
+106,47,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Fajita Veggies, Sour Cream]]",8.99 
+107,47,1,Canned Soda,[Dr. Pepper],1.09 
+108,48,1,Steak Burrito,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",9.25 
+109,48,1,Chips and Guacamole,,4.45 
+110,49,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+111,49,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+112,49,1,Chips and Guacamole,,4.45 
+113,50,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+114,50,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+115,51,1,Barbacoa Bowl,"[[Tomatillo-Red Chili Salsa (Hot), Tomatillo-Green Chili Salsa (Medium)], [Rice, Pinto Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.99 
+116,51,1,Chicken Burrito,"[[Tomatillo-Red Chili Salsa (Hot), Tomatillo-Green Chili Salsa (Medium)], [Rice, Pinto Beans, Cheese, Lettuce]]",8.49 
+117,51,1,Canned Soda,[Diet Dr. Pepper],1.09 
+118,52,1,Steak Soft Tacos,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Cheese, Sour Cream, Lettuce]]",8.99 
+119,52,1,Chips and Guacamole,,3.99 
+120,53,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]",8.75 
+121,53,1,Barbacoa Burrito,"[Tomatillo Green Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]",9.25 
+122,53,1,Chips and Guacamole,,4.45 
+123,54,1,Chicken Bowl,"[Fresh Tomato Salsa, [Guacamole, Cheese, Sour Cream, Fajita Vegetables, Rice]]",11.25 
+124,54,1,Chips and Guacamole,,4.45 
+125,55,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Fajita Veggies, Sour Cream]]",8.99 
+126,55,1,Canned Soda,[Coca Cola],1.09 
+127,56,1,Barbacoa Bowl,"[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]",9.25 
+128,56,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+129,56,1,Chips and Guacamole,,4.45 
+130,57,1,Barbacoa Burrito,"[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]",11.75 
+131,57,1,Chips and Guacamole,,4.45 
+132,58,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+133,58,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+134,59,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream, Guacamole]]",10.98 
+135,60,2,Chicken Salad Bowl,"[Tomatillo Green Chili Salsa, [Sour Cream, Cheese, Guacamole]]",22.50 
+136,61,1,Barbacoa Bowl,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+137,61,1,Chips and Guacamole,,4.45 
+138,62,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Guacamole]]",11.25 
+139,62,1,Chips and Guacamole,,4.45 
+140,63,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Rice, Sour Cream, Cheese, Guacamole]]",11.25 
+141,63,1,Chips and Guacamole,,4.45 
+142,64,1,Chicken Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+143,64,1,Veggie Bowl,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+144,65,1,Barbacoa Burrito,"[Tomatillo Red Chili Salsa, [Rice, Sour Cream, Cheese, Guacamole]]",11.75 
+145,65,1,Carnitas Bowl,"[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese]]",9.25 
+146,65,1,Chips and Guacamole,,4.45 
+147,66,1,Steak Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Rice, Black Beans, Sour Cream, Guacamole]]",11.48 
+148,67,2,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Lettuce]]",17.98 
+149,67,1,Side of Chips,,1.69 
+150,68,2,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]",17.50 
+151,68,1,Chips and Guacamole,,4.45 
+152,69,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+153,69,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+154,70,2,Chicken Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Lettuce]]",17.50 
+155,70,1,Chips and Guacamole,,4.45 
+156,71,1,Chips and Guacamole,,4.45 
+157,71,1,Veggie Bowl,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+158,71,1,Steak Burrito,"[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole, Lettuce]]",11.75 
+159,72,1,Chicken Burrito,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+160,73,1,Chicken Bowl,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+161,73,1,Chicken Burrito,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Cheese, Guacamole, Lettuce]]",10.98 
+162,73,2,Canned Soda,[Diet Coke],2.18 
+163,74,1,Carnitas Bowl,"[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",11.48 
+164,74,1,Veggie Bowl,"[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+165,74,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+166,75,1,Chips and Guacamole,,4.45 
+167,75,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+168,75,1,Barbacoa Crispy Tacos,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]",11.75 
+169,75,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+170,76,1,Chicken Burrito,"[[Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Cheese, Lettuce]]",8.49 
+171,76,2,Canned Soda,[Diet Dr. Pepper],2.18 
+172,77,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+173,77,1,Nantucket Nectar,[Apple],3.39 
+174,78,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), Lettuce]",8.49 
+175,78,1,Steak Soft Tacos,"[Roasted Chili Corn Salsa (Medium), Lettuce]",8.99 
+176,79,1,Chicken Bowl,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+177,80,1,Steak Burrito,"[Fresh Tomato Salsa (Mild), [Rice, Black Beans, Sour Cream, Guacamole]]",11.48 
+178,81,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream]]",8.49 
+179,81,1,Canned Soda,[Coca Cola],1.09 
+180,81,1,Canned Soda,[Dr. Pepper],1.09 
+181,82,1,Barbacoa Soft Tacos,"[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]",9.25 
+182,82,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream]]",8.75 
+183,82,1,Chips and Fresh Tomato Salsa,,2.95 
+184,83,1,Steak Soft Tacos,"[Fresh Tomato Salsa, [Cheese, Sour Cream]]",9.25 
+185,83,1,Chips and Guacamole,,4.45 
+186,83,1,Veggie Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+187,84,1,Steak Bowl,"[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Guacamole, Lettuce]]",11.48 
+188,84,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+189,84,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Lettuce]]",8.49 
+190,85,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Fajita Veggies, Cheese, Lettuce, Sour Cream, Rice]]",8.99 
+191,85,1,Chips and Roasted Chili-Corn Salsa,,2.39 
+192,86,1,Veggie Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+193,86,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+194,86,1,Chips and Fresh Tomato Salsa,,2.95 
+195,87,1,Canned Soda,[Coca Cola],1.09 
+196,87,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+197,88,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+198,88,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+199,89,1,Chicken Bowl,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Guacamole, Lettuce]]",10.98 
+200,89,1,Canned Soda,[Diet Coke],1.09 
+201,89,1,Chips and Guacamole,,3.99 
+202,90,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]",11.25 
+203,90,1,Chicken Burrito,"[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Sour Cream, Cheese, Lettuce]]",8.75 
+204,91,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+205,91,1,Nantucket Nectar,[Peach Orange],3.39 
+206,92,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]",8.75 
+207,92,1,Steak Bowl,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",9.25 
+208,92,1,Chips,,2.15 
+209,93,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+210,93,1,Veggie Bowl,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+211,93,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+212,93,1,Chips and Guacamole,,4.45 
+213,94,2,Chicken Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Pinto Beans, Guacamole]]",22.50 
+214,95,1,Chips and Guacamole,,4.45 
+215,95,1,Steak Bowl,"[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.75 
+216,96,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+217,96,2,Chicken Crispy Tacos,"[Tomatillo Red Chili Salsa, [Cheese, Sour Cream, Lettuce]]",17.50 
+218,96,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+219,97,1,Barbacoa Bowl,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]",9.25 
+220,97,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+221,97,1,Chips,,2.15 
+222,98,1,Barbacoa Burrito,"[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]",9.25 
+223,98,2,Chips,,4.30 
+224,98,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Sour Cream, Lettuce]]",8.75 
+225,99,1,Veggie Burrito,"[Tomatillo Red Chili Salsa, [Black Beans, Cheese, Guacamole]]",11.25 
+226,99,1,Chips,,2.15 
+227,100,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+228,100,1,Canned Soda,[Mountain Dew],1.09 
+229,101,1,Steak Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+230,101,1,Chips and Guacamole,,3.99 
+231,102,1,Chicken Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+232,102,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+233,102,1,Chips and Roasted Chili Corn Salsa,,2.95 
+234,103,1,Steak Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+235,103,2,Chips and Tomatillo Green Chili Salsa,,5.90 
+236,103,1,Steak Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]",9.25 
+237,103,1,Carnitas Soft Tacos,"[Tomatillo Green Chili Salsa, [Fajita Vegetables, Pinto Beans, Cheese]]",9.25 
+238,103,1,Steak Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+239,104,1,Carnitas Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Sour Cream, Cheese]]",9.25 
+240,104,1,Chips and Fresh Tomato Salsa,,2.95 
+241,105,2,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",17.50 
+242,106,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]",8.75 
+243,106,1,Steak Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream]]",9.25 
+244,107,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+245,108,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Lettuce]]",8.99 
+246,108,1,Canned Soda,[Mountain Dew],1.09 
+247,108,1,Canned Soda,[Dr. Pepper],1.09 
+248,108,1,Canned Soda,[Mountain Dew],1.09 
+249,108,1,Barbacoa Burrito,"[[Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium)], [Rice, Pinto Beans, Cheese]]",8.99 
+250,109,1,Chicken Salad,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]",10.98 
+251,109,1,Canned Soda,[Diet Dr. Pepper],1.09 
+252,110,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]",8.75 
+253,110,1,Veggie Bowl,"[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]",8.75 
+254,110,1,Barbacoa Bowl,"[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]",9.25 
+255,110,1,Barbacoa Crispy Tacos,"[Roasted Chili Corn Salsa, [Rice, Cheese, Lettuce]]",9.25 
+256,111,1,Chicken Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+257,111,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]",8.75 
+258,112,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]",8.99 
+259,112,1,Steak Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]",8.99 
+260,113,1,Steak Bowl,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+261,113,1,Canned Soda,[Mountain Dew],1.09 
+262,114,1,Steak Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+263,114,1,Canned Soft Drink,[Coke],1.25 
+264,115,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice]]",8.99 
+265,115,1,Chips and Fresh Tomato Salsa,,2.39 
+266,116,1,Steak Soft Tacos,"[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]",9.25 
+267,116,1,Chips and Fresh Tomato Salsa,,2.95 
+268,117,1,Barbacoa Soft Tacos,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Cheese, Sour Cream, Lettuce]]",8.99 
+269,117,1,Chips and Guacamole,,3.99 
+270,118,1,Chicken Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+271,118,1,Chips and Tomatillo-Green Chili Salsa,,2.39 
+272,119,1,Chicken Burrito,"[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+273,119,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+274,120,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]",8.49 
+275,120,1,Side of Chips,,1.69 
+276,121,1,Chicken Burrito,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream]]",8.49 
+277,121,1,Chips and Guacamole,,3.99 
+278,122,1,Steak Soft Tacos,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Lettuce]]",8.99 
+279,122,1,Side of Chips,,1.69 
+280,122,1,Canned Soda,[Coca Cola],1.09 
+281,123,2,Steak Salad Bowl,"[Tomatillo Red Chili Salsa, [Black Beans, Cheese, Guacamole]]",23.78 
+282,124,2,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",17.50 
+283,124,1,Chips,,2.15 
+284,124,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+285,125,1,Steak Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Lettuce]]",9.25 
+286,125,1,Steak Bowl,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",9.25 
+287,125,1,Veggie Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+288,125,1,Chips and Guacamole,,4.45 
+289,126,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+290,126,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Guacamole, Lettuce]]",11.25 
+291,127,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Rice, Sour Cream, Guacamole, Lettuce]]",11.25 
+292,127,1,Canned Soft Drink,[Sprite],1.25 
+293,128,1,Steak Soft Tacos,"[Fresh Tomato Salsa, [Cheese, Sour Cream]]",9.25 
+294,128,1,Chips and Guacamole,,4.45 
+295,128,1,Veggie Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Lettuce, Guacamole, Sour Cream, Cheese, Black Beans, Rice]]",11.25 
+296,129,1,Steak Burrito,"[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole]]",11.75 
+297,129,1,Steak Burrito,"[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole]]",11.75 
+298,129,1,6 Pack Soft Drink,[Sprite],6.49 
+299,130,1,Steak Soft Tacos,"[Tomatillo-Red Chili Salsa (Hot), Lettuce]",8.99 
+300,130,1,Chips and Tomatillo-Red Chili Salsa,,2.39 
+301,131,1,Chicken Bowl,"[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+302,131,1,Chips and Fresh Tomato Salsa,,2.39 
+303,132,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+304,132,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+305,132,1,Chips,,2.15 
+306,133,1,Steak Bowl,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+307,133,1,Side of Chips,,1.69 
+308,134,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Lettuce]]",8.75 
+309,134,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+310,134,1,Chips,,2.15 
+311,135,1,Chips and Guacamole,,4.45 
+312,135,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]",8.75 
+313,136,1,Chicken Soft Tacos,"[Tomatillo-Red Chili Salsa (Hot), Fajita Veggies]",8.49 
+314,136,1,Steak Burrito,"[Tomatillo-Green Chili Salsa (Medium), [Cheese, Lettuce]]",8.99 
+315,137,2,Chicken Salad Bowl,"[Fresh Tomato Salsa, Fajita Vegetables]",17.50 
+316,138,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]",8.49 
+317,138,1,Canned Soda,[Diet Coke],1.09 
+318,138,1,Bottled Water,,1.09 
+319,139,1,Chicken Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Sour Cream]]",8.75 
+320,139,1,Canned Soft Drink,[Coke],1.25 
+321,139,1,Chips,,2.15 
+322,140,1,Steak Burrito,"[Fresh Tomato (Mild), [Lettuce, Guacamole, Rice, Cheese]]",11.08 
+323,141,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+324,141,1,Chicken Soft Tacos,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Rice, Fajita Veggies, Cheese, Lettuce]]",8.49 
+325,142,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), Rice]",8.99 
+326,142,1,Chips and Fresh Tomato Salsa,,2.39 
+327,143,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Rice, Cheese]]",8.75 
+328,143,1,Chips,,2.15 
+329,143,1,Bottled Water,,1.50 
+330,144,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+331,144,1,Chips,,2.15 
+332,145,1,Chicken Soft Tacos,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+333,145,1,Chicken Soft Tacos,"[Fresh Tomato Salsa (Mild), [Rice, Cheese, Sour Cream]]",8.49 
+334,146,1,Barbacoa Burrito,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.75 
+335,146,1,Steak Burrito,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Lettuce]]",9.25 
+336,147,1,Steak Bowl,"[Tomatillo Red Chili Salsa, [Fajita Vegetables, Cheese, Guacamole, Lettuce]]",11.75 
+337,147,1,Canned Soft Drink,[Coke],1.25 
+338,148,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]",11.25 
+339,148,1,Chicken Burrito,"[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Sour Cream, Cheese, Lettuce]]",8.75 
+340,148,1,Chips and Guacamole,,4.45 
+341,148,1,6 Pack Soft Drink,[Diet Coke],6.49 
+342,149,1,Steak Soft Tacos,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",9.25 
+343,149,1,Chips and Fresh Tomato Salsa,,2.95 
+344,149,1,Chicken Soft Tacos,"[Fresh Tomato Salsa, [Fajita Vegetables, Cheese, Guacamole, Lettuce]]",11.25 
+345,149,1,Chips and Guacamole,,4.45 
+346,149,1,Canned Soft Drink,[Lemonade],1.25 
+347,149,1,Canned Soft Drink,[Sprite],1.25 
+348,150,1,Chicken Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+349,150,1,Chips and Tomatillo-Red Chili Salsa,,2.39 
+350,150,2,Canned Soda,[Diet Coke],2.18 
+351,151,1,Chicken Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]",8.49 
+352,151,2,Canned Soda,[Coca Cola],2.18 
+353,152,2,Steak Burrito,"[Fresh Tomato (Mild), [Lettuce, Guacamole, Rice, Cheese]]",22.16 
+354,153,2,Chicken Soft Tacos,"[Fresh Tomato Salsa, Sour Cream]",17.50 
+355,154,1,Chicken Burrito,"[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+356,154,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+357,154,1,6 Pack Soft Drink,[Coke],6.49 
+358,155,1,Steak Burrito,"[Fresh Tomato Salsa (Mild), [Pinto Beans, Cheese, Sour Cream]]",8.99 
+359,155,1,Izze,[Blackberry],3.39 
+360,155,1,Izze,[Grapefruit],3.39 
+361,156,1,Steak Burrito,"[Fresh Tomato Salsa (Mild), [Cheese, Sour Cream, Lettuce]]",8.99 
+362,156,1,Chicken Burrito,"[Fresh Tomato Salsa (Mild), [Pinto Beans, Cheese, Sour Cream, Lettuce]]",8.49 
+363,157,1,Chicken Burrito,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+364,157,1,Chips,,2.15 
+365,158,1,Chicken Crispy Tacos,"[Tomatillo Green Chili Salsa, [Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+366,158,1,Chips and Tomatillo Green Chili Salsa,,2.95 
+367,159,1,Chicken Burrito,"[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce, Guacamole]]",11.25 
+368,159,1,Canned Soft Drink,[Diet Coke],1.25 
+369,160,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Black Beans, Cheese, Sour Cream, Lettuce]]",8.99 
+370,160,1,Canned Soda,[Diet Coke],1.09 
+371,161,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+372,161,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]",8.75 
+373,162,1,Carnitas Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Sour Cream, Cheese]]",9.25 
+374,162,1,Chips and Fresh Tomato Salsa,,2.95 
+375,163,1,Barbacoa Burrito,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]",11.75 
+376,163,1,Bottled Water,,1.50 
+377,164,1,Steak Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream]]",8.99 
+378,164,1,Canned Soda,[Mountain Dew],1.09 
+379,165,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]",11.25 
+380,165,1,Canned Soft Drink,[Coke],1.25 
+381,165,1,Canned Soft Drink,[Coke],1.25 
+382,166,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Guacamole]]",11.25 
+383,166,1,Steak Burrito,"[Tomatillo Red Chili Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce, Guacamole]]",11.75 
+384,166,1,Chips,,2.15 
+385,167,1,Barbacoa Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+386,167,1,Side of Chips,,1.69 
+387,168,1,Steak Bowl,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+388,168,1,6 Pack Soft Drink,[Diet Coke],6.49 
+389,169,1,Chicken Burrito,"[Fresh Tomato Salsa, [Cheese, Sour Cream]]",8.75 
+390,169,1,Steak Soft Tacos,"[Fresh Tomato Salsa, [Cheese, Sour Cream]]",9.25 
+391,170,1,Chicken Burrito,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]",11.25 
+392,170,1,Chips and Guacamole,,4.45 
+393,170,1,Canned Soft Drink,[Coke],1.25 
+394,171,1,Veggie Burrito,"[Tomatillo Green Chili Salsa, Guacamole]",11.25 
+395,171,1,Chips and Guacamole,,4.45 
+396,172,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.49 
+397,172,1,Barbacoa Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+398,173,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]",8.49 
+399,173,1,Carnitas Bowl,"[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Rice, Cheese, Lettuce]]",8.99 
+400,174,1,Chicken Burrito,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]",11.25 
+401,174,1,Canned Soft Drink,[Sprite],1.25 
+402,175,1,Steak Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]",11.75 
+403,175,1,Canned Soft Drink,[Coke],1.25 
+404,176,1,Steak Burrito,"[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]",11.75 
+405,176,1,Carnitas Soft Tacos,"[Fresh Tomato Salsa, [Cheese, Lettuce]]",9.25 
+406,176,1,Chips and Guacamole,,4.45 
+407,177,1,Chicken Bowl,"[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+408,177,1,Chips,,2.15 
+409,178,3,Chicken Bowl,"[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Cheese, Guacamole, Lettuce]]",32.94 
+410,179,1,Canned Soft Drink,[Coke],1.25 
+411,179,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Sour Cream, Cheese, Guacamole]]",11.25 
+412,180,1,Steak Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]",11.48 
+413,180,1,Side of Chips,,1.69 
+414,180,1,Canned Soda,[Dr. Pepper],1.09 
+415,181,2,Chicken Bowl,[Tomatillo Red Chili Salsa],17.50 
+416,182,1,Chips and Guacamole,,4.45 
+417,182,1,6 Pack Soft Drink,[Diet Coke],6.49 
+418,182,1,Barbacoa Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese]]",9.25 
+419,183,1,Chicken Soft Tacos,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+420,183,1,Steak Burrito,"[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",9.25 
+421,184,1,Carnitas Burrito,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]",9.25 
+422,184,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Rice, Lettuce]]",8.75 
+423,184,1,Chicken Burrito,"[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]",8.75 
+424,184,1,Chips,,2.15 
+425,184,1,Chips and Fresh Tomato Salsa,,2.95 
+426,185,2,Chicken Soft Tacos,"[Fresh Tomato Salsa, [Sour Cream, Lettuce]]",17.50 
+427,186,1,Chicken Soft Tacos,"[[Tomatillo-Red Chili Salsa (Hot), Roasted Chili Corn Salsa (Medium)], [Guacamole, Cheese, Sour Cream]]",10.98 
+428,186,1,Steak Bowl,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Rice, Cheese, Sour Cream, Guacamole]]",11.48 
+429,186,1,Barbacoa Crispy Tacos,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Cheese, Sour Cream, Guacamole]]",11.48 
+430,186,1,Izze,[Grapefruit],3.39 
+431,187,1,Steak Burrito,"[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+432,187,1,Side of Chips,,1.69 
+433,188,1,Carnitas Bowl,"[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.99 
+434,188,1,Canned Soda,[Coca Cola],1.09 
+435,189,1,Veggie Burrito,"[[Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Pinto Beans, Fajita Veggies, Guacamole, Lettuce]]",10.98 
+436,189,1,Nantucket Nectar,[Pomegranate Cherry],3.39 
+437,190,1,Steak Crispy Tacos,"[[Roasted Chili Corn Salsa (Medium), Tomatillo-Green Chili Salsa (Medium)], [Rice, Black Beans, Cheese, Sour Cream]]",8.99 
+438,190,1,Canned Soda,[Dr. Pepper],1.09 
+439,191,1,Steak Burrito,"[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",9.25 
+440,191,1,Chicken Soft Tacos,"[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+441,192,1,Chicken Burrito,"[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]",11.25 
+442,192,1,Chips and Guacamole,,4.45 
+443,192,1,Chips and Tomatillo Red Chili Salsa,,2.95 
+444,192,1,Steak Bowl,"[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]",9.25 
+445,193,3,Bowl,"[Braised Carnitas, Pinto Beans, [Sour Cream, Cheese, Cilantro-Lime Rice]]",22.20 
+446,194,1,Chicken Burrito,"[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]",8.49 
+447,194,1,Steak Burrito,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]",8.99 
+448,195,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]",8.75 
+449,195,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]",8.75 
+450,195,1,Barbacoa Burrito,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+451,195,1,Chicken Burrito,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream]]",8.75 
+452,195,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+453,195,1,Carnitas Soft Tacos,"[Fresh Tomato Salsa, [Sour Cream, Lettuce]]",9.25 
+454,195,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+455,195,1,Veggie Salad Bowl,"[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+456,196,1,Chicken Bowl,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]",8.75 
+457,196,1,Chicken Burrito,"[Fresh Tomato Salsa, [Black Beans, Cheese, Guacamole, Lettuce]]",11.25 
+458,196,1,Chips and Fresh Tomato Salsa,,2.95 
+459,196,1,Canned Soft Drink,[Coke],1.25 
+460,197,1,Chicken Bowl,"[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]",8.49 
+461,197,1,Side of Chips,,1.69 
+462,198,1,Carnitas Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.75 
+463,198,1,Chicken Burrito,"[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]",11.25 
+464,199,1,Chicken Bowl,"[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese]]",8.75 
+465,199,1,Chicken Bowl,"[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce]]",8.75 
+466,199,1,Chips and Guacamole,,4.45 
+467,200,1,Veggie Burrito,"[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Cheese, Sour Cream]]",8.49 
+468,200,1,Chips and Guacamole,,3.99 

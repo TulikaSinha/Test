@@ -1,0 +1,18 @@
+<data>
+    <student name="Student_1">
+        <gender>Female</gender>
+        <marks>9.5</marks>
+    </student>
+    <student name="Student_2">
+        <gender>Male</gender>
+        <marks>8.2</marks>
+    </student>
+    <student name="Student_3">
+        <gender>Male</gender>
+        <marks>7.8</marks>
+    </student>
+    <student name="Student_4">
+        <gender>Female</gender>
+        <marks>8.5</marks>
+    </student>
+</data>
